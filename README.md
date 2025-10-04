@@ -27,7 +27,6 @@ I have developed several projects demonstrating my skills, including:
 - **Core Python Mini Projects**  
 
 📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- Email: harshitachoudhary@gmail.com  
+- [https://www.linkedin.com/in/%20harshita-choudhary01%20Vanity%20URL%20name]
+- Email: choudharyharshita302@gmail.com  
 
-⚡ **Fun fact:** I enjoy **gardening** and **playing strategy games** in my free time.
