@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**HARSHITA36341/HARSHITA36341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Harshita Choudhary**, a passionate developer with a strong foundation in **Python, Django, Flask, and web development**. I have completed a diploma from **Government Polytechnic College, Kangra**, where I gained hands-on experience in programming, problem-solving, and project development.  
 
-Here are some ideas to get you started:
+💻 **What I do:**  
+- Build web applications using **Python, Django, Flask, HTML, CSS, Bootstrap**  
+- Create interactive dashboards and data visualizations with **Excel**  
+- Develop GUI-based Python projects using **Tkinter**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently working on:**  
+- Expanding my knowledge in **Generative AI** and **database management**  
+- Building real-world projects to strengthen my portfolio  
+
+🌱 **Skills:**  
+- Programming: Python (Core & Advanced), Tkinter  
+- Web Development: Django, Flask, HTML, CSS, Bootstrap  
+- Databases: MySQL, SQLite  
+- Tools: Git, GitHub, Excel, Data Analysis  
+
+📌 **Projects:**  
+I have developed several projects demonstrating my skills, including:  
+- **Blood Bank Management System** (Django + MySQL)  
+- **Student Management System** (Django + SQLite)  
+- **Real Estate Listing Website** (Flask + MySQL)  
+- **Tic Tac Toe Game** (Python + Tkinter)  
+- **Excel Dashboard Project**  
+- **Core Python Mini Projects**  
+
+📫 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- Email: harshitachoudhary@gmail.com  
+
+⚡ **Fun fact:** I enjoy **gardening** and **playing strategy games** in my free time.
