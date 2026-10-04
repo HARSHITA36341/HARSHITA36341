@@ -27,6 +27,6 @@ I have developed several projects demonstrating my skills, including:
 - **Core Python Mini Projects**  
 
 📫 **Connect with me:**  
-- [https://www.linkedin.com/in/%20harshita-choudhary01%20Vanity%20URL%20name]
+- https://www.linkedin.com/in/harshitachoudhary01
 - Email: choudharyharshita302@gmail.com  
 
