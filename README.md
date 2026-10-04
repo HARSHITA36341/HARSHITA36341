@@ -1,32 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harshita
 
-I’m **Harshita Choudhary**, a passionate developer with a strong foundation in **Python, Django, Flask, and web development**. I have completed a diploma from **Government Polytechnic College, Kangra**, where I gained hands-on experience in programming, problem-solving, and project development.  
+Aspiring Python Developer from Mohali & Chandigarh. I enjoy building small projects with Python and MySQL, and I am looking for a Python Developer internship or entry-level role.
 
-💻 **What I do:**  
-- Build web applications using **Python, Django, Flask, HTML, CSS, Bootstrap**  
-- Create interactive dashboards and data visualizations with **Excel**  
-- Develop GUI-based Python projects using **Tkinter**  
+## Skills
+- **Programming:** Python (core), Object-Oriented Programming, Exception Handling
+- **Database:** MySQL (CRUD, joins, transactions)
+- **Data & ML basics:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** GitHub, Jupyter Notebook, VS Code
 
-🚀 **Currently working on:**  
-- Expanding my knowledge in **Generative AI** and **database management**  
-- Building real-world projects to strengthen my portfolio  
+## Featured Projects
+- [Bank Management System](https://github.com/HARSHITA36341/bank-management-system): command-line banking app in Python and MySQL with deposit, withdraw and transaction statements using SQL transactions (commit/rollback).
+- [Bank Loan Approval & Customer Risk Analysis](https://github.com/HARSHITA36341/Bank-loan-approval-Customer-Risk-Analysis-Project): data cleaning and analysis of loan data using Python, Pandas and Tableau.
 
-🌱 **Skills:**  
-- Programming: Python (Core & Advanced), Tkinter  
-- Web Development: Django, Flask, HTML, CSS, Bootstrap  
-- Databases: MySQL, SQLite  
-- Tools: Git, GitHub, Excel, Data Analysis  
+## Currently Learning
+- Machine Learning, Deep Learning and Generative AI (Techedo Technologies)
+- Django and FastAPI
 
-📌 **Projects:**  
-I have developed several projects demonstrating my skills, including:  
-- **Blood Bank Management System** (Django + MySQL)  
-- **Student Management System** (Django + SQLite)  
-- **Real Estate Listing Website** (Flask + MySQL)  
-- **Tic Tac Toe Game** (Python + Tkinter)  
-- **Excel Dashboard Project**  
-- **Core Python Mini Projects**  
-
-📫 **Connect with me:**  
-- https://www.linkedin.com/in/harshitachoudhary01
-- Email: choudharyharshita302@gmail.com  
-
+## Connect with me
+- LinkedIn: [linkedin.com/in/harshitachoudhary01](https://www.linkedin.com/in/harshitachoudhary01)
+- Email: [choudharyharshita302@gmail.com](mailto:choudharyharshita302@gmail.com)
